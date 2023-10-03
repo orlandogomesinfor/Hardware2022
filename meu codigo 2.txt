@@ -1,2 +1,3 @@
 teste git novo,
 alterando a tela novo envio ao git
+Agora incluido alteracoes com arquivo de inclusao.html
