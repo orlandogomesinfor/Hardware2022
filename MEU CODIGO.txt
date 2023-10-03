@@ -1,3 +1,5 @@
 OLÁ, TESTES GIT 1
 Outro linha de código!
 ALTERANDO O CODIGO PARA TESTAR BRANCH STAGING 
+Alteracao feita no arquivo de inclusao.html
+incluido modulo de tabela
