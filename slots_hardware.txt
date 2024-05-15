@@ -1,0 +1,3 @@
+na placa mãe, temos vários slots
+PCI
+PCI express
