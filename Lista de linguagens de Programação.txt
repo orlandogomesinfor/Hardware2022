@@ -1,0 +1,25 @@
+Lista de linguagens de Programação
+Python
+C
+C++
+
+Java
+Javascript
+PHP
+
+HTML
+CSS
+
+Linguagens antigas
+Cobol
+Fortran
+Clipper
+
+--- Banco de dados 
+MYSQL
+Oracle
+
+--- Editor
+VSCODE
+NetBeans
+
